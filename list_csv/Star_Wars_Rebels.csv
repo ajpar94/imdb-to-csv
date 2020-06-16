@@ -1,12 +1,24 @@
 season,episode,release,title,rating,description
-1,1,3 Oct. 2014,Spark of Rebellion,7.5,Ezra Bridger encounters the Ghost crew and joins them on a mission to free Wookiees from an Imperial Star Destroyer.
-1,2,24 Oct. 2014,Droids in Distress,7.1,Ezra and Zeb go to Lothal's market for provisions and to work on their relationship.
+1,1,26 Sep. 2014,Spark of Rebellion,7.5,Ezra Bridger encounters the Ghost crew and joins them on a mission to free Wookiees from an Imperial Star Destroyer.
+1,2,13 Oct. 2014,Droids in Distress,7.1,Ezra and Zeb go to Lothal's market for provisions and to work on their relationship.
+1,3,20 Oct. 2014,Fighter Flight,6.5,"To prevent Ezra and Zeb from bickering, Hera sends them on a supply. En route back to the ghost, they encounter, Morad Sumar, a friend of Ezra's parents."
+1,4,20 Oct. 2014,Rise of the Old Masters,8.1,The rebel crew undergoes a rescue mission only to face a powerful foe.
+1,5,3 Nov. 2014,Breaking Ranks,7.5,The rebels send Ezra on an undercover mission into the Imperial Academy to steal a decoder.
+1,6,3 Nov. 2014,Out of Darkness,6.9,"While on a supply run, Hera and Sabine find themselves stranded but not alone in a seemingly abandoned locale."
+1,7,10 Nov. 2014,Empire Day,7.8,"While disrupting Empire Day festivities in order to destroy a prototype TIE fighter, the crew learns a refugee has important information and must get him off-planet before the Imperials find him."
+1,8,17 Nov. 2014,Gathering Forces,8.2,Kanan and Ezra try to protect an Imperial deserter by distracting the Imperial forces.
+1,9,29 Dec. 2014,Path of the Jedi,8.5,Ezra must face a great challenge as part of his growth as a member of the team.
+1,10,12 Jan. 2015,Idiot's Array,7.6,The wrong gamble with a new acquaintance forces the crew into transporting some unusual cargo.
+1,11,26 Jan. 2015,Vision of Hope,7.5,The crew of the Ghost try to thwart an Imperial plan to capture an exiled dignitary.
+1,12,26 Jan. 2015,Call to Action,8.4,"As public awareness increases around rebel activity, they target an important Imperial network."
+1,13,16 Feb. 2015,Rebel Resolve,8.0,The team tries to get Kanan's location to free him.
+1,14,2 Mar. 2015,Fire Across the Galaxy,9.3,The crew has to go through many obstacles to save Kanan from the Inquisitor.
 2,1,20 Jun. 2015,The Siege of Lothal,9.1,"Now a part of Phoenix Squadron, the Ghost crew joins a mission to steal shield generators from an Imperial freighter. Under pressure from Darth Vader, an Imperial defector leads the Sith Lord to battle with Kanan and Ezra."
-2,2,23 Oct. 2015,The Siege of Lothal: Part 2,8.1,"After being confronted by Darth Vader, the Ghost crew seek help from Lando Calrissian to leave Lothal and continue the fight against the Empire with the rest of the rebel fleet."
-2,3,14 Oct. 2015,The Lost Commanders,8.2,The rebels run into Captain Rex and his gang on a desert planet.
+2,2,20 Jun. 2015,The Siege of Lothal: Part 2,8.1,"After being confronted by Darth Vader, the Ghost crew seek help from Lando Calrissian to leave Lothal and continue the fight against the Empire with the rest of the rebel fleet."
+2,3,14 Oct. 2015,The Lost Commanders,8.1,The rebels run into Captain Rex and his gang on a desert planet.
 2,4,21 Oct. 2015,Relics of the Old Republic,8.4,"Ezra and the crew begin to develop friendships with Captain Rex and his colleagues, prompting them to work together against an attack by Agent Kallus."
 2,5,28 Oct. 2015,Always Two There Are,7.9,"Ezra, Sabine, Zeb and Chopper travel to an abandoned medical station."
-2,6,4 Nov. 2015,Brothers of the Broken Horn,7.4,"Ezra and Chopper take the Phantom to investigate a distress call from a smuggler's ship, where Ezra is tempted to join the crew of Hondo Ohnaka."
+2,6,4 Nov. 2015,Brothers of the Broken Horn,7.3,"Ezra and Chopper take the Phantom to investigate a distress call from a smuggler's ship, where Ezra is tempted to join the crew of Hondo Ohnaka."
 2,7,11 Nov. 2015,Wings of the Master,7.9,"Hera goes on a dangerous mission to acquire a new ship, the B-Wing."
 2,8,18 Nov. 2015,Blood Sisters,7.1,"On a mission to escort a courier with secret information vital to the rebel cause to a rendezvous point, Sabine must face off against her old friend and partner."
 2,9,25 Nov. 2015,Stealth Strike,8.3,"A new Imperial ship captures Ezra, Commander Sato, and his crew, forcing Kanan and Rex to go undercover as stormtroopers to free the rebels."
@@ -15,19 +27,19 @@ season,episode,release,title,rating,description
 2,12,20 Jan. 2016,A Princess on Lothal,8.0,"Bail Organa sends his daughter to Lothal to help the rebellion acquire ships for their fleet, but an Imperial lockdown forces them to come up with a new plan."
 2,13,27 Jan. 2016,The Protector of Concord Dawn,7.8,"In need of new hyperspace routes due to Imperial pressure, the rebels find a shortcut but must gain permission from the leader of the nearby system."
 2,14,3 Feb. 2016,Legends of the Lasat,7.5,"The rebels are stunned to discover two Lasat refugees, and together they must evade the Empire to get the Lasat to their prophesized new home planet."
-2,15,10 Feb. 2016,The Call,7.3,"On a mission to obtain fuel for the rebel fleet, the crew protects space creatures from the mining operation that threatens the creatures' lives."
+2,15,10 Feb. 2016,The Call,7.2,"On a mission to obtain fuel for the rebel fleet, the crew protects space creatures from the mining operation that threatens the creatures' lives."
 2,16,17 Feb. 2016,Homecoming,7.5,The Ghost crew journeys to Ryloth to aid a rebel cell.
 2,17,24 Feb. 2016,The Honorable Ones,8.4,Zeb and Agent Kallus are stranded on a frozen planet together and must work together to survive.
 2,18,2 Mar. 2016,Shroud of Darkness,9.2,"Kanan, Ezra, and Ahsoka return to the Lothal Jedi Temple to find out how the Inquisitors have continually been able to track the rebels."
 2,19,16 Mar. 2016,The Forgotten Droid,7.4,"When Chopper's attempts to buy a new leg fails, he ends up stealing one and escaping on an Imperial ship where he makes friends with an inventory droid."
 2,20,23 Mar. 2016,The Mystery of Chopper Base,7.4,"The crew lands on the new base on a strange desert planet inhabited by strange spiderlike creatures. Ahsoka, Kanan and Ezra prepare to solve the mystery of Darth Vader."
-2,21,30 Mar. 2016,Twilight of the Apprentice: Part I,9.3,The Jedi find an unexpected ally at the forbidden planet of Malachor.
-2,22,30 Mar. 2016,Twilight of the Apprentice: Part II,9.8,"After gaining information about the Sith, Kanan, Ezra and Ahsoka battle the Inquisitors with the help of a new ally, but are overmatched when Vader arrives."
+2,21,30 Mar. 2016,Twilight of the Apprentice: Part I,9.4,The Jedi find an unexpected ally at the forbidden planet of Malachor.
+2,22,30 Mar. 2016,Twilight of the Apprentice,9.8,"After gaining information about the Sith, Kanan, Ezra and Ahsoka battle the Inquisitors with the help of a new ally, but are overmatched when Vader arrives."
 3,1,24 Sep. 2016,Steps Into Shadow,8.4,"Ezra, Sabine, Zeb, Chopper and Hera set out to rescue Hondo Ohnaka, while Kanan finds an ancient Force creature known as the Bendu."
 3,2,1 Oct. 2016,The Holocrons of Fate,8.5,"When Maul takes the crew of the Ghost hostage, Ezra and Kanan must pass a trial in order to recover an ancient Sith artifact to save them."
 3,3,8 Oct. 2016,The Antilles Extraction,7.6,Sabine goes undercover as a cadet in the Empire's elite flight academy to help break out several young pilots wanting to defect to the rebellion.
 3,4,15 Oct. 2016,Hera's Heroes,7.8,"While on her home world to save her father, Hera returns home to collect a priceless family heirloom and winds up in the hands of the occupying force - Grand Admiral Thrawn's."
-3,5,22 Oct. 2016,The Last Battle,8.2,"On a salvage mission led by Captain Rex, the Ghost crew is captured by a unit of old battle droids determined to fight one last battle to end the Clone Wars."
+3,5,22 Oct. 2016,The Last Battle,8.3,"On a salvage mission led by Captain Rex, the Ghost crew is captured by a unit of old battle droids determined to fight one last battle to end the Clone Wars."
 3,6,5 Nov. 2016,Imperial Supercommandos,7.6,"After losing contact to the Protectors of Concord Dawn, Sabine, Ezra and Fenn Rau investigate. They quickly discover that Imperial Mandalorians have taken over the station."
 3,7,19 Nov. 2016,Iron Squadron,6.4,"Ezra and Sabine join forces to subdue a young pilot ace and his crew, who are foolishly risking their lives to defend their home planet."
 3,8,26 Nov. 2016,The Wynkahthu Job,6.7,"The rebels join forces with ruthless pirates to salvage a freighter full of weapons the rebellion needs. However, the mission turns out to be way more dangerous than they expected."
@@ -41,7 +53,7 @@ season,episode,release,title,rating,description
 3,16,25 Feb. 2017,Through Imperial Eyes,8.8,"The rebels attempt to save a rebel spy, fearing that their identity will be unveiled by the Empire."
 3,17,4 Mar. 2017,Secret Cargo,8.2,"Hera, Zeb and Ezra are tasked with transporting a highly valuable Rebel leader away from Imperial control, but Thrawn's new TIE models prove trickier than the Ghost crew expected."
 3,19,11 Mar. 2017,Double Agent Droid,7.0,"Chopper and AP-5 infiltrate an Imperial station in order to steal some necessary codes, when things go awry for the two droids and the crew of the Ghost."
-3,20,18 Mar. 2017,Twin Suns,9.3,"Reacting to a vision of Maul, Ezra defies Hera and Kanan to travel to a remote planet in hopes of stopping the former Sith lord from carrying out his plans."
+3,20,18 Mar. 2017,Twin Suns,9.4,"Reacting to a vision of Maul, Ezra defies Hera and Kanan to travel to a remote planet in hopes of stopping the former Sith lord from carrying out his plans."
 3,21,25 Mar. 2017,Zero Hour: Part 1,9.0,"The rebels make their final preparations for the attack on Lothal, but Grand Admiral Thrawn threatens to undo all that they have built."
 3,22,25 Mar. 2017,Zero Hour: Part 2,8.9,Hera and Kanan fight to keep the squadron alive while trapped on Atollon. Ezra seeks to break the blockade with help from an unlikely source.
 4,1,16 Oct. 2017,Heroes of Mandalore: Part 1,7.7,The rebels work with Mandalorian Clan Wren to free Sabine's father from the clutches of the Empire.
@@ -50,11 +62,11 @@ season,episode,release,title,rating,description
 4,4,23 Oct. 2017,In the Name of the Rebellion: Part 2,8.1,"After being separated from Hera and Kanan, Ezra and Sabine join the desperate quest of Saw Gerrera to hunt down the Empire's elusive secret superweapon."
 4,5,30 Oct. 2017,The Occupation,7.7,Ezra and the Ghost crew are called back to Lothal when a new Imperial threat rises.
 4,6,30 Oct. 2017,Flight of the Defender,8.1,Ezra and Sabine steal an Imperial prototype TIE fighter but must rely on some unexpected help to escape from Thrawn.
-4,7,6 Nov. 2017,Kindred,8.2,"Tracked back to their hidden base by a mysterious Imperial agent, the rebels must trust some seemingly dangerous native creatures, who are far more than meets the eye."
+4,7,6 Nov. 2017,Kindred,8.1,"Tracked back to their hidden base by a mysterious Imperial agent, the rebels must trust some seemingly dangerous native creatures, who are far more than meets the eye."
 4,8,6 Nov. 2017,Crawler Commandeers,7.1,"Desperate to contact Rebel command, the Ghost crew pirates a mining vehicle with long range communications gear, but the Empire arrives to spoil their plans."
 4,9,13 Nov. 2017,Rebel Assault,8.3,"Hera leads a courageous attack against Grand Admiral Thrawn's forces, but when things go awry, her battle to win must become a daring escape if she is to survive."
 4,10,19 Feb. 2018,Jedi Night,9.4,The Ghost Crew infiltrates the Imperial headquarters on Lothal to save one of their own.
-4,11,19 Feb. 2018,DUME,8.4,"Reeling from a devastating loss, the Ghost Crew rallies together to find a new purpose and resolve."
+4,11,19 Feb. 2018,DUME,8.3,"Reeling from a devastating loss, the Ghost Crew rallies together to find a new purpose and resolve."
 4,12,26 Feb. 2018,Wolves and a Door,8.6,Ezra leads the Ghost crew back to the Jedi temple on Lothal where they discover that the Empire has diabolical plans for the powerful secrets it holds.
 4,13,26 Feb. 2018,A World Between Worlds,9.5,"While the other rebels engage the Imperial forces outside the Jedi Temple, Ezra gains access inside and experiences a stunning revelation."
 4,14,5 Mar. 2018,A Fool's Hope,8.8,Ezra calls in every favor he can to rally together a ragtag group for a seemingly impossible fight against Governor Pryce and her Imperial forces.
